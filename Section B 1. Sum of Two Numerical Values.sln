@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section B 1. Sum of Two Numerical Values", "Section B 1. Sum of Two Numerical Values\Section B 1. Sum of Two Numerical Values.csproj", "{7ED8AB53-A3A5-4AB3-BAF6-FC4DAFBA5119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED8AB53-A3A5-4AB3-BAF6-FC4DAFBA5119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED8AB53-A3A5-4AB3-BAF6-FC4DAFBA5119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED8AB53-A3A5-4AB3-BAF6-FC4DAFBA5119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED8AB53-A3A5-4AB3-BAF6-FC4DAFBA5119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980E2F85-9D72-4F1B-BC9E-DD50F063CCA9}
+	EndGlobalSection
+EndGlobal
